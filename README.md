@@ -48,7 +48,7 @@ npm run format
 
 - [w3schools](https://www.w3schools.com/)
 
-## :bust_in_silhouette: Author
+## 👤 Author
 
 ### Abass Olanrewaju Wasiu
 
@@ -56,13 +56,13 @@ npm run format
 - LinkedIn: [@Abass Olanrewaju](https://www.linkedin.com/in/abass-olanrewaju-abdul-wasi-53883422a/)
 - Twitter: [@abdul-wasi-img](https://twitter.com/abdul_wasi_img)
 
-## :handshake: Contributing
+## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
 ## Show Your Support
 
-Give a :star2: if you like this project!
+Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
