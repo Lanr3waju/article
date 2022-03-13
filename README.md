@@ -1,6 +1,6 @@
 # Articles (Technical writing)
 
-> This is a project that is based on writing articles on the things i've learnt on my software development journey, so as to help beginner developers and make the terms or technologies i write on more simplified for whoever reads the article.
+> This is a project that is based on writing articles on the things i've learnt on my software development journey, in other to help others especially new developers, and also make the terms or technologies i write articles on more simplified for readers.
 
 ## Published Articles
 
@@ -68,6 +68,7 @@ Give a ⭐️ if you like this project!
 
 - [@bolah2009](http://github.com/bolah2009)
 - [@adejam](https://github.com/adejam)
+
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
