@@ -1,4 +1,4 @@
-# JavaScript Variables
+# A Beginner's Guide to JavaScript Variables
 
 A variable is a container for storing values in JavaScript and usually assigned to a name for storing values (which can be any JS data type).
 It is assigned to a name so that the value it holds can be referenced or accessed through the assigned name.
@@ -8,13 +8,13 @@ var myName = 'Lanre';
 console.log(myName); //output: Lanre
 ```
 
-### Creating a Variable:
+## Creating a Variable
 
 Creating a variable in JavaScript is known as declaring a variable, a variable is declared using certain keywords that have been specialized for declaring variables; `var`, `let`, & `const` and using an (assignment operator `=` ) to assign a value to it as seen in the above example.
 
 ## Variable Keywords (`var`, `let` & `const`)
 
-### `var` :
+### `var`
 
 The `var` keyword was used to declare variales in the old, pre-ES6 era of JavaScript.
 
@@ -27,7 +27,7 @@ console.log(myName); //output: Abass Lanre
 
 Variables declared with `var` can be declared without assigning a value to it, such values will be initialised with a value of `undefined`
 
-### `let` :
+### `let`
 
 The `let` keyword was introduced in ES6 (2015) and is used to declare variables in JavaScript.
 
@@ -48,7 +48,7 @@ let myNames = 'Lanre';
 console.log(myNames); //Uncaught SyntaxError: Identifier 'myNames' has already been declared
 ```
 
-### `const` :
+### `const`
 
 The `const` keyword was also introduced in ES6 (2015), and is used to declare variables as well.
 
@@ -91,7 +91,7 @@ That is an assignment expression that assigns the value of 'author' to me.
 | Division Assignment       |      age /= 5      |  age = age / 5 |
 | Remainder Assignment      |      age %= 2      |  age = age % 2 |
 
-for more visit [mdn's JavaScript Expression and Operators guide. ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+for more visit [mdn's JavaScript Expression and Operators guide.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
 
 ### The Increment (++) and Decrement Operator (--)
 
